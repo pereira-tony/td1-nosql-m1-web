@@ -9,6 +9,10 @@ Visiter [docker](https://www.docker.com/) pour en savoir plus
 
 Toutes les commandes docker commence par : `docker`
 
+```bash
+docker ps -a # Affiche toutes les instances de docker qui tournent actuellement sur votre environnement
+```
+
 ### Manipulation des containers
 
 ```bash
